@@ -1,6 +1,6 @@
 ## 这是一个关于用遗传算法解决TSP问题的复现
 
-> 原文来自： [这里](https://[![img](https://i0.hdslb.com/bfs/reply/9f3ad0659e84c96a711b88dd33f4bc2e945045e0.png)github](https://search.bilibili.com/all?from_source=webcommentline_search&keyword=github&seid=512051575622686627&from_avid=374658663&from_comid=4279056640).com/zifeiyu0531/ga-tsp)
+> 原文来自： [这里](https://github.com/zifeiyu0531/ga-tsp)
 
 :smile::smile::smile:
 
@@ -80,4 +80,5 @@ ___
    - 适应度曲线图：![image-20250830002825415](C:\Users\20436\AppData\Roaming\Typora\typora-user-images\image-20250830002825415.png)
 
 :smile::smile::smile:
+
 
